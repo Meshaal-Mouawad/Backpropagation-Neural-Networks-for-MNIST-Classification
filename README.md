@@ -1,0 +1,2 @@
+# Backpropagation-Neural-Networks-for-MNIST-Classification
+=MNIST stands for Modified National Institute of Standards and Technology. MNIST is a database of handwritten digits that used for training and testing many image processing systems and machine learning research LeCun et al. [1998]. It has 60,000 training images and 10,000 testing images of handwritten digits and characters LeCun et al. [1998].
